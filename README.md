@@ -1,4 +1,4 @@
-## Hi World! I'm Abidin Ramdhan Prasetyo 👋
+## Hi World! I'm Abidin Ramadhan Prasetyo 👋
 
 ![kimikerya](img/github-header-banner.png)
 <!--
